@@ -3,12 +3,7 @@
 // Assignment Code
 let generateBtn = document.querySelector("#generate");
 console.log(generateBtn)
-/*
-numeric.push();
-lowercase.push();
-upperCase.unshift();
-specialCharacters.unshift();
-*/
+
 const lc ="abcdefghijklmnopqrstuvwxyz";
 //Array reference
 const uc ="ABCDEFGHIJKLMNOPQRSTUVWXYZ";

@@ -1,16 +1,14 @@
 # 03 JavaScript: Password Generator
 
-Add your own description nad photos.
+See homework description below.
 
 Deployed Website -> https://reindeercode.github.io/JavaScript-Random-Password-Generator/
+
 Used the following site for verification.
-Note is there are any errors
 -> https://validator.w3.org/nu/
 
-![code refactor demo](./assets/Index-NoFooter.png)
-![code refactor demo](./assets/Index-NoFooter.png)
-![code refactor demo](./assets/Index-NoFooter.png)
-![code refactor demo](./assets/Index-NoFooter.png)
+![code refactor demo](./assets/strings.png)
+![code refactor demo](./assets/promts.png)
 
 ## Your Task
 
