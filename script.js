@@ -44,6 +44,7 @@ function generatePassword() {
     if (num){
       allChar += num
     };
+    //console.log("promt worked")
     if (
       lowerCase === false &&
       upperCase === false &&
@@ -54,7 +55,11 @@ function generatePassword() {
       generatePassword();
     }
   }
-
+  let pwd = "";
+  for (let i=0; i<pwdLength; i++){
+    pwd += allChar.charAt(Math.floor(Math.random() * allChar.length))
+  }
+  return pwd
 }
 
 
@@ -65,13 +70,6 @@ function writePassword() {
   passwordText.value = password;
 }
 
-function randomized(len, char) {
-  let pwd = "";
-  for (let i=0; i<len; i++){
-    pwd += char.charAt(Math.floor(Math.random() * char.length))
-  }
-  return pwd;
-}
 
 
 // Add event listener to generate button
