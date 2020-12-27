@@ -1,18 +1,19 @@
 # Project: JavaScript: Password Generator
 
-  Deployable Link - > 
+  Deployable Link - >  https://reindeercode.github.io/JavaScript-Random-Password-Generator/
 
-  Video Walk through Link -> 
 
 ## Table of Contents: 
-- [Name](#name)
-- [License](#license)
-- [Description](#description)
-- [Installation Instructions](#installationInstructions)
-- [Test](#test)
-- [GitHub](#gitHub)
-- [Email](#email)
-- [Contributors](#contributors)
+- [Project: JavaScript: Password Generator](#project-javascript-password-generator)
+  - [Table of Contents:](#table-of-contents)
+  - [License:](#license)
+  - [Description:](#description)
+  - [Images:](#images)
+  - [Installation Instructions:](#installation-instructions)
+  - [Test Command:](#test-command)
+  - [Github:](#github)
+  - [My Email Address:](#my-email-address)
+  - [Other Contributors:](#other-contributors)
 
 ## License:
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -21,11 +22,10 @@
 Create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
 ## Images:
-![Project Screenshot](./imagePathHere.png)
+![Project Screenshot](./assets/strings.png)
 
-![Project Screenshot](./imagePathHere.png)
+![Project Screenshot](./assets/promts.png)
 
-![Project Screenshot](./imagePathHere.png)
 
 ## Installation Instructions: 
 Launch in default browser.
