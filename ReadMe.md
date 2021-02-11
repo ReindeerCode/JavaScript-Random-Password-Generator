@@ -26,7 +26,7 @@ Create an application that an employee can use to generate a random password bas
 Click deployed site link at top of ReadMe
 
 ## Test Command: 
-To test type Click "Generate Password" button and follow alert messages. into the terminal
+To test type Click "Generate Password" button and follow alert messages. 
 
 ## Github: 
 Check out more projects on my Github at https://github.com/ReindeerCode
